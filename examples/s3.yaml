@@ -1,3 +1,0 @@
-credentials_filename: examples/aws_credentials.json
-bucket_name: my-bucket-in-us-east-1
-prefix: secret_detector/tracked_repos
